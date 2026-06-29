@@ -171,7 +171,7 @@ Possible future enhancements include:
 **Role:** Java Developer | Cybersecurity Enthusiast
 
 
-# 🙏 Acknowledgements
+#  Acknowledgements
 
 I sincerely thank **CRBOX Company** for providing me with the opportunity to work on this project during my internship. This experience strengthened my knowledge of Java programming, secure coding practices, and practical cybersecurity concepts.
 
